@@ -131,16 +131,16 @@ npm start
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots\Screenshot%202025-10-20%20091204.png)
+![Landing Page](screenshots/Screenshot%202025-10-20%20091204.png)
 
 ### Sign Up Page
-![Sign Up Page](screenshots\Screenshot%202025-10-19%20133834.png)
+![Sign Up Page](screenshots/Screenshot%202025-10-19%20133834.png)
 
 ### Sign In Success & Home Screen
-![Sign In Success](screenshots\Screenshot%202025-10-19%20133949.png)
+![Sign In Success](screenshots/Screenshot%202025-10-19%20133949.png)
 
 ### Home Screen with User Profile
-![Home Screen](screenshots\Screenshot%202025-10-19%20133909.png)
+![Home Screen](screenshots/Screenshot%202025-10-19%20133909.png)
 
 ## 🛠️ Technologies Used
 
